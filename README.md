@@ -1,7 +1,7 @@
 # Thực hành Python MQTT buổi 1
 
-Họ tên: **Điền họ tên của bạn**  
-Mã sinh viên: **Điền mã sinh viên của bạn**
+Họ tên: **Trương Quang Thắng**  
+Mã sinh viên: **B23DCCN758**
 
 Bộ mã mẫu mô phỏng gửi nhận tin nhắn, cảm biến nhiệt độ độ ẩm và đèn thông minh. Không cần cảm biến hoặc đèn thật. Hãy đọc code, chạy từng bài và ghi lại kết quả thực tế trước khi nộp.
 
